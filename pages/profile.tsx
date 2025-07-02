@@ -1,0 +1,1 @@
+// profile.tsx content placeholder

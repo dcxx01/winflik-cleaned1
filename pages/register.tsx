@@ -1,0 +1,1 @@
+// register.tsx content placeholder
