@@ -1,1 +1,7 @@
-// next.config.ts content placeholder
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  reactStrictMode: true,
+  swcMinify: true,
+};
+
+export default nextConfig;
